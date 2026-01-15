@@ -1,4 +1,4 @@
 # RnnProject
 
 New rnn project
-IMDB Project
+IMDB Projecsentiment analysis
