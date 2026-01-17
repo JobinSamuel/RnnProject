@@ -1,9 +1,9 @@
-# 🎬 IMDB Movie Review Sentiment Analysis (SimpleRNN + Streamlit)
+#  IMDB Movie Review Sentiment Analysis (SimpleRNN + Streamlit)
 
 This project is a complete **end-to-end Deep Learning NLP application** that classifies IMDB movie reviews as:
 
-✅ **Positive**
-❌ **Negative**
+**Positive**
+**Negative**
 
 It uses a **SimpleRNN model trained on the IMDB dataset (TensorFlow/Keras)** and is deployed as an interactive **Streamlit web app** where users can enter a review and instantly get sentiment predictions.
 
@@ -34,22 +34,6 @@ The Streamlit app:
 * Runs model inference
 * Displays prediction results in UI 
 
-
----
-
-## ▶️ Run the App Locally
-
-### 1) Install dependencies
-
-```bash
-pip install streamlit tensorflow numpy
-```
-
-### 2) Start Streamlit
-
-```bash
-streamlit run main.py
-```
 
 ---
 
